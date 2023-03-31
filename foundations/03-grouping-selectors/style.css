@@ -1,0 +1,13 @@
+*{
+    font-size: 28px;
+    font-family: Helvetiva,"Times New Roman";
+}
+
+.blkwhite{
+    background-color: black;
+    color: white;
+
+}
+.yellow{
+    background-color: yellow;
+}
